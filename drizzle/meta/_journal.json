@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1721734466321,
+      "tag": "0000_living_bullseye",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1721736795780,
+      "tag": "0001_loving_namorita",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1721999561882,
+      "tag": "0002_chunky_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1722057130486,
+      "tag": "0003_wise_rachel_grey",
+      "breakpoints": true
+    }
+  ]
+}
